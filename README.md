@@ -1,4 +1,4 @@
-##Sampling Assignment
+## Sampling Assignment
 
 ### Introduction
 Sampling is a statistical technique used to select a subset of data from a larger dataset. This approach helps reduce computational overhead while maintaining the representativeness of the data.
