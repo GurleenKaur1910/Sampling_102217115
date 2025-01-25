@@ -59,7 +59,7 @@ Five sampling techniques were implemented:
 #### K-Nearest Neighbors (KNN): Classifies data points based on their nearest neighbors.
 
 ### Result
-![Result_102203992](Result_102203992.png "An example of sampling techniques")
+![Result_102217115](Result_102217115.png "An example of sampling techniques")
 
 Maximum accuracy for each model is given by following sampling methods:
 #### M1: Sampling 4
